@@ -1,0 +1,4 @@
+body {
+  --hacker:<img src="bogus.url" onError="alert('Hacked!')" />;
+  --bug:<img src="bogus.url" onError="alert('Got it!')" />;
+}
